@@ -15,11 +15,9 @@
     }
   ],
   "passTypeIdentifier": "pass.com.angus-systems.vs",
-  "webServiceURL": "https://192.168.11.126:4567/",
   "formatVersion": 1,
   "relevantDate": "2011-12-08T13:00-08:00",
   "teamIdentifier": "NT385FNA76",
-  "authenticationToken": "30c4cb4ba863fa9d7687959d8fbc6f0c",
   "description": "Boarding pass",
   "boardingPass": {
     "auxiliaryFields": [
@@ -80,7 +78,7 @@
     ],
     "headerFields": [
       {
-        "value": "21",
+        "value": "85",
         "label": "GATE",
         "changeMessage": "Gate changed to %@.",
         "key": "gate"
