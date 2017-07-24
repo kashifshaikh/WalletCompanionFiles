@@ -1,4 +1,4 @@
-*.pkpass
-*.p12
-*.pem
-*.sqlite3
+!*.pkpass
+!*.p12
+!*.pem
+!*.sqlite3
